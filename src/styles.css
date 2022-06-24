@@ -1,0 +1,11 @@
+/* Ant Components */
+
+@import "antd/dist/antd.css";
+
+.rangePickerWrapper {
+  display: flex;
+  align-items: unset;
+
+  height: 32px;
+  width: 300px;
+}
